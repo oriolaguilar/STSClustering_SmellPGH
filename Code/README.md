@@ -1,4 +1,4 @@
-## Subsequence Time Series Clustering for Air-Pollution Pattern Recognition > Datasets
+## Subsequence Time Series Clustering for Air-Pollution Pattern Recognition > Code
 
 * [**EDA notebook:**](EDA.ipynb) Contains the exploratory data analysis done to do the data preparation.
 * [**Data Preparation notebook:**](data-preparation.ipynb) Contains the data preparation steps to convert the reports' data and the sensor station datasets to a multivariate time series
