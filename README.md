@@ -12,4 +12,4 @@ This research explores the effectiveness of subsequence time series clustering t
 
 * **[Code:](./Code/)** scripts and notebooks used for the experiments.
 * **[Data:](./Data/)** includes the Smell PGH and External dataset used.
-* **[Thesis:](.)** Submitted paper.
+* **[Thesis:](./Thesis_OriolAguilarLarruy.pdf)** Submitted paper.
